@@ -3,14 +3,15 @@
     {
       "orientation" : "portrait",
       "idiom" : "iphone",
+      "filename" : "AppIcon60x60@2x.png",
       "minimum-system-version" : "7.0",
       "scale" : "2x"
     },
     {
       "orientation" : "portrait",
       "idiom" : "iphone",
+      "filename" : "AppIcon60x60@3x.png",
       "minimum-system-version" : "7.0",
-      "subtype" : "retina4",
       "scale" : "2x"
     },
     {
@@ -39,14 +40,6 @@
     },
     {
       "filename" : "AppIcon57x57@2x.png",
-      "unassigned" : true
-    },
-    {
-      "filename" : "AppIcon60x60@2x.png",
-      "unassigned" : true
-    },
-    {
-      "filename" : "AppIcon60x60@3x.png",
       "unassigned" : true
     }
   ],
